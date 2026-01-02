@@ -27,8 +27,6 @@ It includes multiple features suitable for exploration, cleaning, and aggregatio
 
 The dataset is first analyzed using Python and later stored in PostgreSQL for SQL-based querying.
 
-(Dataset source can be added here if applicable)
-
 🛠️ Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib/Seaborn)
@@ -39,7 +37,7 @@ Power BI (Dashboard & visual storytelling)
 
 Gamma (Presentation creation)
 
-Jupyter Notebook / Google Colab
+Jupyter Notebook 
 
 GitHub (Version control & project documentation)
 
@@ -106,11 +104,6 @@ Delivered a clean, interactive dashboard for stakeholders.
 Demonstrated practical application of Python, SQL, and BI tools.
 
 ▶️ How to Run the Project
-
-Clone the repository:
-
-git clone <repository-url>
-
 
 Open the Python notebook:
 
